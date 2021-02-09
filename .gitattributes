@@ -1,0 +1,3 @@
+# Syntax
+# secretfile filter=git-crypt diff=git-crypt
+# *.key filter=git-crypt diff=git-crypt
