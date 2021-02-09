@@ -10,3 +10,6 @@ pip3 install diagrams
 ```
 
 Run `python3 diagram.py`
+
+Sample
+![Sample](simple_website_diagram.png)
